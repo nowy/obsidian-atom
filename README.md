@@ -1,11 +1,19 @@
-# Obsidian Atom
+# ⚛️  Obsidian Atom (Nowy)
 
-A theme for Obsidian based on Atom's One Dark and One Light themes.
+Based off of [kognise](https://github.com/kognise)'s Atom theme - this
+just adds a bit more contrast and a few more hovering states.
 
-![Screenshot](screenshot-hybrid.png)
+
+### Light
+
+![Screenshot](light.png)
+
+### Dark
+
+![Screenshot](dark.png)
 
 ## Installation
 
-1. Download obsidian.css to your Obsidian vault folder
-2. In Obsidian, click Settings -> Plugins make sure `Custom CSS` is enabled
-3. Pick either light or dark theme in Obsidian's appearance settings!
+1. Download `atom-nowy.css` to your Obsidian vault themes folder (`[vault]/.obsidian/themes`).
+2. Reload Obsidian.
+3. Go to `Settings` -> `Appearance` -> `Themes` and select this theme.
