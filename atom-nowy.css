@@ -216,19 +216,15 @@ mjx-container[jax='CHTML'] {
   padding: 2px 0;
 }
 
-.theme-light .cm-s-obsidian span.cm-hashtag {
-  background-color: var(--gray-2);
-}
-
 .cm-s-obsidian span.cm-hashtag-begin {
-  border-top-left-radius: 4px;
-  border-bottom-left-radius: 4px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
   padding-left: 4px;
 }
 
 .cm-s-obsidian span.cm-hashtag-end {
-  border-top-right-radius: 4px;
-  border-bottom-right-radius: 4px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
   padding-right: 4px;
 }
 
