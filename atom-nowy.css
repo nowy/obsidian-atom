@@ -209,6 +209,16 @@ mjx-container[jax='CHTML'] {
   color: var(--yellow);
 }
 
+.theme-light .cm-s-obsidian pre.HyperMD-codeblock,
+.theme-light .cm-s-obsidian span.cm-inline-code,
+.theme-light .cm-s-obsidian span.cm-math:not(.cm-formatting-math-begin):not(.cm-formatting-math-end),
+.theme-light .markdown-preview-view code,
+.theme-light .cm-s-obsidian span.cm-inline-code,
+.theme-light .cm-s-obsidian span.cm-math,
+.theme-light .cm-s-obsidian span.hmd-fold-math-placeholder {
+  color: var(--text-normal);
+}
+
 .cm-s-obsidian span.cm-hashtag {
   color: var(--white);
   background-color: var(--text-faint);
